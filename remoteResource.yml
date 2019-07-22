@@ -6,4 +6,4 @@ metadata:
 spec:
   requests:
     - options:
-        url: https://raw.githubusercontent.com/mckaymic/RazeeDemo/master/configmap.yaml
+        url: https://raw.githubusercontent.com/padraic-edwards/razze-demo/master/remoteResource.yml
