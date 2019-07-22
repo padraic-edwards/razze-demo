@@ -6,4 +6,4 @@ metadata:
 spec:
   requests:
     - options:
-        url: https://raw.githubusercontent.com/padraic-edwards/razze-demo/master/configmap.yml
+        url: https://raw.githubusercontent.com/padraic-edwards/razze-demo/master/configmap.yaml
